@@ -35,10 +35,12 @@
  * Rajdeep Bandopadhyay:
  * I wrote all the header files, along with the major parts of board.cpp and 
  * wrote the full front-end UI for the whole program, I also assisted with the
- * case definitions for the check functuion and the castle function. I learned
- * a lot while working on this project, it was really rewarding. Although we did
- * not do a perfect job, and I would say that it was because of the limited time 
- * we had for the project, I also learned to work with classes and header files too.
+ * case definitions for the check functuion and the castle function. I also pulled 
+ * the homestretch by overnight debugging of the castle function which wasn't 
+ * working after integration. I learned a lot while working on this project,  
+ * it was really rewarding. Although we did not do a perfect job, and I would say   
+ * that it was because of the limited time we had for the project, I also learned to 
+ * work with classes and header files too.
  */
 
 #include "game.h"
